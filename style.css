@@ -1,0 +1,40 @@
+.flex-container{
+ display: flex;
+ justify-content: space-between;
+}
+
+.box1{
+ border: 1px solid red;
+ margin:0 1em;
+ padding: .75em;
+ height: 200px;
+ width: 150px;
+ 
+}
+
+.flex-container2{
+ display: flex;
+ justify-content: space-around;
+}
+
+.box2{
+ border: 1px solid red;
+ margin:0 1em;
+ padding: .75em;
+ height: 200px;
+ width: 150px;
+ 
+}
+.flex-container3{
+ display: flex;
+ justify-content: space-evenly;
+}
+
+.box3{
+ border: 1px solid red;
+ margin:0 1em;
+ padding: .75em;
+ height: 200px;
+ width: 150px;
+ 
+}
